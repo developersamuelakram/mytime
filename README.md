@@ -1,6 +1,13 @@
 # mytime
 
-A new Flutter application.
+Tenary Operators
+Routes
+Fetching Data from (WorldTime Api)
+Flutter Packages
+Widgetry.
+Update Location.
+Assets and much more 
+
 
 ## Getting Started
 
